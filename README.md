@@ -21,7 +21,11 @@ This project helped me in learning the basics of ML algorithms working, classifi
 1: Installation : 
 pip install pandas scikit-learn matplotlib ipywidgets
 
-2: Running the noteook
+2: Running the noteook:
+- open the Google Colab
+- run all the cells of the file
+- Enter the sepal and petal length
+- the classifier would give the correct category of it.
 
 #4: Libraries used :
 -pandas
