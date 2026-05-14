@@ -9,7 +9,7 @@ IRIS_FLOWER_DETECTION
 ![Dataset](https://img.shields.io/badge/Dataset-Iris-purple)
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
-#DESCRIPTION
+## DESCRIPTION
 The Iris dataset contains three flower species:
 - Iris Setosa
 - Iris Versicolor
@@ -17,7 +17,7 @@ The Iris dataset contains three flower species:
 In the journey of my Data Science internship , the beginner-level machine learninig task was to create a classifier that would classify the catogory of Iris.
 This project helped me in learning the basics of ML algorithms working, classification, training and testing.
 
-#How to Use
+## How to Use
 1: Installation : 
 pip install pandas scikit-learn matplotlib ipywidgets
 
@@ -27,7 +27,7 @@ pip install pandas scikit-learn matplotlib ipywidgets
 - Enter the sepal and petal length
 - the classifier would give the correct category of it.
 
-#4: Libraries used :
+## 4: Libraries used :
 -pandas
 -Scikit-learn
 -Matplotlib
