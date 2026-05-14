@@ -1,10 +1,13 @@
-![Python](https://shields.io)
-![Scikit Learn](https://shields.io)
-![Pandas](https://shields.io)
-
-
 # OIBSIP_DATASCIENCE_taskno.1
 IRIS_FLOWER_DETECTION
+
+# Iris Flower Classification
+
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Model-orange?logo=scikitlearn)
+![Dataset](https://img.shields.io/badge/Dataset-Iris-purple)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
 #DESCRIPTION
 Iris flower consists of three categories based on their sepal and petal length namely SETOSA , VERGINICA , 
